@@ -1,0 +1,5 @@
+flask==3.0.*
+requests==2.31.*
+mysql-connector==2.2.*
+simplejson==3.19.*
+beautifulsoup4==4.12.*
